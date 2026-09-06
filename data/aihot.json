@@ -3,11 +3,245 @@
   "provider": "AI HOT",
   "provider_url": "https://aihot.virxact.com/",
   "api_version": "",
-  "fingerprint": "f1-7ef0e46785c20877",
-  "fetched_at": "2026-09-05T01:05:13Z",
+  "fingerprint": "f1-37e14c890e123fd3",
+  "fetched_at": "2026-09-06T01:05:00Z",
   "stale": false,
   "count": 50,
   "items": [
+    {
+      "id": "cmtoxdsbb032sromz8bcrhsii",
+      "channel": "aihot",
+      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "title_en": "GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…",
+      "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "published_at": "2026-09-05T21:31:52.000Z",
+      "category": "ai-products",
+      "source_score": 76.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
+      "original_url": "https://x.com/testingcatalog/status/2096350628054176240",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii"
+      }
+    },
+    {
+      "id": "cmtoqa3i1022iro4mjh3iogk8",
+      "channel": "aihot",
+      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+      "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
+      "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "published_at": "2026-09-05T18:26:17.000Z",
+      "category": "tip",
+      "source_score": 83.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+      "original_url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+      }
+    },
+    {
+      "id": "cmtoq071c01tjro4mqmxcuu03",
+      "channel": "aihot",
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
+      "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+      "source": "TechCrunch：AI（RSS）",
+      "published_at": "2026-09-05T18:05:27.000Z",
+      "category": "industry",
+      "source_score": 82.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03",
+      "original_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03"
+      }
+    },
+    {
+      "id": "cmtofayvo02uoroht238ucfjw",
+      "channel": "aihot",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+      "source": "The Decoder：AI News（RSS）",
+      "published_at": "2026-09-05T13:31:04.000Z",
+      "category": "tip",
+      "source_score": 78.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+      "original_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
+      }
+    },
+    {
+      "id": "cmtod27rl01iyrouskepiiex2",
+      "channel": "aihot",
+      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+      "title_en": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革\"AI 模型攻击\"事件披露机制",
+      "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+      "source": "IT之家（RSS）",
+      "published_at": "2026-09-05T11:43:16.000Z",
+      "category": "tip",
+      "source_score": 81.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+      "original_url": "https://www.ithome.com/0/998/814.htm",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2"
+      }
+    },
+    {
+      "id": "cmtoba1tm047nroxh3vml7on9",
+      "channel": "aihot",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "title_en": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
+      "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+      "source": "公众号：数字生命卡兹克",
+      "published_at": "2026-09-05T11:39:52.000Z",
+      "category": "tip",
+      "source_score": 77.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
+      "original_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
+      }
+    },
+    {
+      "id": "cmtoazuoz03z6roxhurow5v5s",
+      "channel": "aihot",
+      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+      "title_en": "OpenAI admits to German wiki 'incident'",
+      "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+      "source": "The Verge：AI（RSS）",
+      "published_at": "2026-09-05T11:15:55.000Z",
+      "category": "industry",
+      "source_score": 84.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
+      "original_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s"
+      }
+    },
+    {
+      "id": "cmto3hqh80160roxt5aweoxun",
+      "channel": "aihot",
+      "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+      "title_en": "《精益4》中的费马大定理",
+      "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "published_at": "2026-09-05T07:56:50.597Z",
+      "category": "ai-products",
+      "source_score": 79.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
+      "original_url": "https://github.com/anthropics/fermats-last-theorem",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun"
+      }
+    },
+    {
+      "id": "cmto4hkdv01leromx37jl2511",
+      "channel": "aihot",
+      "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+      "title_en": "ChatGPT 卷入校园枪击案，OpenAI 面临诉讼数量已超 50 起",
+      "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+      "source": "IT之家（RSS）",
+      "published_at": "2026-09-05T07:53:01.000Z",
+      "category": "industry",
+      "source_score": 83.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
+      "original_url": "https://www.ithome.com/0/998/758.htm",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511"
+      }
+    },
+    {
+      "id": "cmto3ih1m016groxt2ypyqos3",
+      "channel": "aihot",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+      "title_en": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+      "source": "The Decoder：AI News（RSS）",
+      "published_at": "2026-09-05T07:41:03.000Z",
+      "category": "ai-models",
+      "source_score": 82.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
+      "original_url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3"
+      }
+    },
+    {
+      "id": "cmto1tyjd0kh4roqs2p93ydka",
+      "channel": "aihot",
+      "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+      "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
+      "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+      "source": "X：OpenAI (@OpenAI)",
+      "published_at": "2026-09-05T07:09:06.000Z",
+      "category": "tip",
+      "source_score": 65.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
+      "original_url": "https://x.com/OpenAI/status/2096133504417616165",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka"
+      }
+    },
+    {
+      "id": "cmtnphe3t07vfroqsvrbd9enn",
+      "channel": "aihot",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+      "title_en": "奥尔特曼致歉\"GPT-6 Astra AI 上线混乱\"，现已面向所有 Plus / Pro 等用户推出",
+      "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+      "source": "IT之家（RSS）",
+      "published_at": "2026-09-05T00:42:24.000Z",
+      "category": "ai-models",
+      "source_score": 82.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+      "original_url": "https://www.ithome.com/0/998/661.htm",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn"
+      }
+    },
+    {
+      "id": "cmtnl720f03ofroqsqcvoyl3o",
+      "channel": "aihot",
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "title_en": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
+      "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+      "source": "IT之家（RSS）",
+      "published_at": "2026-09-04T23:20:46.000Z",
+      "category": "ai-models",
+      "source_score": 82.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtnl720f03ofroqsqcvoyl3o",
+      "original_url": "https://www.ithome.com/0/998/638.htm",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnl720f03ofroqsqcvoyl3o"
+      }
+    },
     {
       "id": "cmtnl720g03olroqsrkmbl292",
       "channel": "aihot",
@@ -45,6 +279,24 @@
       }
     },
     {
+      "id": "cmtnkhh70034droqs3fevneuh",
+      "channel": "aihot",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+      "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+      "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
+      "source": "X：Kim (@kimmonismus)",
+      "published_at": "2026-09-04T22:50:16.000Z",
+      "category": "paper",
+      "source_score": 76.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtnkhh70034droqs3fevneuh",
+      "original_url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnkhh70034droqs3fevneuh"
+      }
+    },
+    {
       "id": "cmtne97cd058urog1zpa39wm7",
       "channel": "aihot",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
@@ -63,21 +315,21 @@
       }
     },
     {
-      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "id": "cmtnbhhu902perog1dmrla299",
       "channel": "aihot",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "title_en": "Formalizing Fermat's Last Theorem",
-      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "published_at": "2026-09-04T18:37:00.305Z",
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+      "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "published_at": "2026-09-04T18:50:48.000Z",
       "category": "paper",
-      "source_score": 81.0,
+      "source_score": 76.0,
       "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
-      "original_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "permalink": "https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299",
+      "original_url": "https://x.com/AnthropicAI/status/2095947707605266436",
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+        "canonical": "https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299"
       }
     },
     {
@@ -459,6 +711,24 @@
       }
     },
     {
+      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "channel": "aihot",
+      "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
+      "title_en": "Formalizing Fermat's Last Theorem",
+      "summary": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成，写出 1300 万行 Lean 代码并证明 29，500 个中间定理。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "published_at": "2026-09-03T16:00:00.000Z",
+      "category": "paper",
+      "source_score": 79.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "original_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+      }
+    },
+    {
       "id": "cmtlrfcid0jqzrow5cg1jvuny",
       "channel": "aihot",
       "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
@@ -531,6 +801,24 @@
       }
     },
     {
+      "id": "cmtnt5cb50b8mroqs7x4pukfm",
+      "channel": "aihot",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
+      "title_en": "GPT-6 Astra： A new generation of intelligence",
+      "summary": "OpenAI 发布新一代模型 GPT-6 Astra，称其在计算机使用、软件工程、科学和网络安全等方向达到 SOTA。",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "published_at": "2026-09-03T11:00:00.000Z",
+      "category": "ai-models",
+      "source_score": 88.0,
+      "selected": true,
+      "permalink": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
+      "original_url": "https://openai.com/index/gpt-6-astra",
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm"
+      }
+    },
+    {
       "id": "cmtl25m9c0e89roalh6qci0r5",
       "channel": "aihot",
       "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
@@ -585,24 +873,6 @@
       }
     },
     {
-      "id": "cmtm02uu60t2arow5vd3nq4gi",
-      "channel": "aihot",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-      "title_en": "Safety overview： GPT-6 Astra",
-      "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "published_at": "2026-09-03T00:00:00.000Z",
-      "category": "ai-models",
-      "source_score": 80.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi",
-      "original_url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi"
-      }
-    },
-    {
       "id": "cmtlu23pp0ng4row5uxwtpazb",
       "channel": "aihot",
       "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
@@ -637,358 +907,19 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtltscl80m18row5tw9bb0qw"
       }
-    },
-    {
-      "id": "cmtlg0ht406hlrow5clznd0ld",
-      "channel": "aihot",
-      "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-      "title_en": "Give Your Coding Agents a Memory You Own",
-      "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
-      "source": "Hugging Face：Blog（RSS）",
-      "published_at": "2026-09-03T00:00:00.000Z",
-      "category": "ai-products",
-      "source_score": 72.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld",
-      "original_url": "https://huggingface.co/blog/funes",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlg0ht406hlrow5clznd0ld"
-      }
-    },
-    {
-      "id": "cmtl9l0kb0mksroal28uvoaug",
-      "channel": "aihot",
-      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-      "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。",
-      "source": "Hugging Face：Blog（RSS）",
-      "published_at": "2026-09-03T00:00:00.000Z",
-      "category": "tip",
-      "source_score": 62.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug",
-      "original_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
-      }
-    },
-    {
-      "id": "cmtksft9f0450roali4sl0z86",
-      "channel": "aihot",
-      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
-      "title_en": "纽约时报诉 OpenAI 案升级：美国司法部首次就 AI 版权问题公开表态，主张 AI 训练属\"合理使用\"",
-      "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
-      "source": "IT之家（RSS）",
-      "published_at": "2026-09-02T23:50:05.000Z",
-      "category": "industry",
-      "source_score": 79.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86",
-      "original_url": "https://www.ithome.com/0/997/732.htm",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86"
-      }
-    },
-    {
-      "id": "cmtkme19o02plro5q94jsf94x",
-      "channel": "aihot",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-      "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-      "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-      "source": "X：Kim (@kimmonismus)",
-      "published_at": "2026-09-02T21:39:44.000Z",
-      "category": "ai-models",
-      "source_score": 78.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-      "original_url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x"
-      }
-    },
-    {
-      "id": "cmtkkcguj04aurollf1lq9a9s",
-      "channel": "aihot",
-      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
-      "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
-      "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "published_at": "2026-09-02T20:37:12.000Z",
-      "category": "ai-models",
-      "source_score": 73.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkkcguj04aurollf1lq9a9s",
-      "original_url": "https://x.com/alexandr_wang/status/2095249704888197175",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkkcguj04aurollf1lq9a9s"
-      }
-    },
-    {
-      "id": "cmtkh71ky017vrolly7trswyx",
-      "channel": "aihot",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-      "source": "X：Claude (@claudeai)",
-      "published_at": "2026-09-02T19:06:19.000Z",
-      "category": "ai-products",
-      "source_score": 71.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-      "original_url": "https://x.com/claudeai/status/2095226833293685100",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
-      }
-    },
-    {
-      "id": "cmtkfkfvl03garobqyr0vwpth",
-      "channel": "aihot",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-      "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-      "summary": "GitHub 工程师 Erik Kristensen 分享了 Copilot 降本的四项改动：选择性压缩工具输出、移除 view 工具行号前缀（线下推理成本降约 5%，线上用户日均推理成本降约 3%）、压缩 task-tool 提示词（每轮省约 1300 token，每活跃小时归一化成本降 2.9%）、后台任务完成后直接交付结果（AI Credits 用量降约 2.3%）。",
-      "source": "GitHub Blog",
-      "published_at": "2026-09-02T18:00:00.000Z",
-      "category": "tip",
-      "source_score": 61.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth",
-      "original_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth"
-      }
-    },
-    {
-      "id": "cmtkbz92801nmrowy61g2fsob",
-      "channel": "aihot",
-      "title": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准",
-      "title_en": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "summary": "Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "published_at": "2026-09-02T16:35:00.000Z",
-      "category": "tip",
-      "source_score": 65.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob",
-      "original_url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkbz92801nmrowy61g2fsob"
-      }
-    },
-    {
-      "id": "cmtkbbn6q01j6roz54e8g5zec",
-      "channel": "aihot",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-      "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-      "source": "Google Developers Blog（RSS）",
-      "published_at": "2026-09-02T16:29:43.634Z",
-      "category": "tip",
-      "source_score": 61.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-      "original_url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
-      }
-    },
-    {
-      "id": "cmtkbdbti01n8roz5k5kt1g98",
-      "channel": "aihot",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-      "title_en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。",
-      "source": "Google DeepMind：Blog（RSS）",
-      "published_at": "2026-09-02T16:18:31.000Z",
-      "category": "ai-models",
-      "source_score": 78.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98",
-      "original_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98"
-      }
-    },
-    {
-      "id": "cmtlrvu1x0k8wrow53bshxa9k",
-      "channel": "aihot",
-      "title": "Google 与 HHMI Janelia 发布完整雄性果蝇大脑及中枢神经系统连接组",
-      "title_en": "A connectomics milestone： Mapping the complete male fruit fly brain",
-      "summary": "Google 与 HHMI Janelia 等合作者在 Cell 发表雄性果蝇大脑与中枢神经系统的完整连接组，包含超过 166，000 个神经元和 1.25 亿个突触连接，是目前按神经元数量计最大的大脑连接组图。",
-      "source": "Google Research：Blog（网页）",
-      "published_at": "2026-09-02T16:00:00.000Z",
-      "category": "paper",
-      "source_score": 60.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtlrvu1x0k8wrow53bshxa9k",
-      "original_url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlrvu1x0k8wrow53bshxa9k"
-      }
-    },
-    {
-      "id": "cmtlptw7y0hz0row5jmextq6g",
-      "channel": "aihot",
-      "title": "NVIDIA 以 129.3 亿美元收购 Hugging Face",
-      "title_en": "NVIDIA to acquire Hugging Face for $12.93B",
-      "summary": "NVIDIA 已同意以 129.3 亿美元收购 Hugging Face，以扩展该开源模型仓库的平台与基础设施。交易目标是平台增长和基础设施投资，旨在为全球企业开发者、软件工程师和研究机构扩大 AI 访问机会。Hugging Face 由 Clem Delangue、Julien Chaumond、Thomas Wolf 等人在过去十年间打造。",
-      "source": "Artificial Intelligence News（网页）",
-      "published_at": "2026-09-02T16:00:00.000Z",
-      "category": "industry",
-      "source_score": 83.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g",
-      "original_url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g"
-      }
-    },
-    {
-      "id": "cmtk9u4ga01hwrompqmqchjqj",
-      "channel": "aihot",
-      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-      "title_en": "What is harness engineering and why should I care？",
-      "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "published_at": "2026-09-02T15:28:05.000Z",
-      "category": "tip",
-      "source_score": 69.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj",
-      "original_url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtk9u4ga01hwrompqmqchjqj"
-      }
-    },
-    {
-      "id": "cmtkaa7gs01v5romp7lhz3mwj",
-      "channel": "aihot",
-      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-      "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-      "source": "The Verge：AI（RSS）",
-      "published_at": "2026-09-02T14:35:03.000Z",
-      "category": "industry",
-      "source_score": 77.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj",
-      "original_url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkaa7gs01v5romp7lhz3mwj"
-      }
-    },
-    {
-      "id": "cmtkffuf503cbrobqkwhimxmp",
-      "channel": "aihot",
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-      "title_en": "Run cloud agents on machines you manage",
-      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-      "source": "Cursor Blog",
-      "published_at": "2026-09-02T12:00:00.000Z",
-      "category": "ai-products",
-      "source_score": 67.0,
-      "selected": true,
-      "permalink": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
-      "original_url": "https://cursor.com/blog/self-hosted-machines",
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
-      }
     }
   ],
   "hot_topics": [
     {
       "rank": 1,
-      "id": "cmtm02uu60t2arow5vd3nq4gi",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "permalink": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi",
-      "storyPermalink": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceCount": 22,
-      "signalCount": 18,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "X：OpenAI Developers (@OpenAIDevs)",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Tibo (@thsottiaux)",
-        "X：Greg Brockman (@gdb)",
-        "X：Sam Altman (@sama)",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：Gabriel (@gabriel1)",
-        "Simon Willison 博客",
-        "X：Sherwin Wu（@sherwinwu）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "MarkTechPost（RSS）",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：小北 (@frxiaobei)",
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "latestAt": "2026-09-04T19:59:13.844Z"
-    },
-    {
-      "rank": 2,
-      "id": "cmtli5yd109u4row52i1xg9j4",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "permalink": "https://aihot.virxact.com/items/cmtli5yd109u4row52i1xg9j4",
-      "storyPermalink": "https://aihot.virxact.com/story/697a905a-e2b6-4709-9c6e-faeea5c9cc32",
-      "source": "NVIDIA Blog（RSS）",
-      "sourceCount": 19,
-      "signalCount": 15,
-      "sourceNames": [
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "X：Jensen Huang (@JensenHuang)",
-        "NVIDIA Blog（RSS）",
-        "IT之家（RSS）",
-        "X：Kim (@kimmonismus)",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Aidan Gomez（Cohere CEO，@aidangomez）",
-        "Ars Technica：AI（RSS）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Emad Mostaque (@EMostaque)",
-        "X：Sundar Pichai (@sundarpichai)",
-        "X：Satya Nadella (@satyanadella)",
-        "X：Peter Steinberger (@steipete)"
-      ],
-      "latestAt": "2026-09-04T01:30:02.247Z"
-    },
-    {
-      "rank": 3,
       "id": "cmtne97cd058urog1zpa39wm7",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
       "url": "https://x.com/OpenAI/status/2095968413646737608",
       "permalink": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
       "storyPermalink": "https://aihot.virxact.com/story/f03210cb-f733-44c8-a39d-8c9676776949",
       "source": "X：OpenAI (@OpenAI)",
-      "sourceCount": 7,
-      "signalCount": 4,
+      "sourceCount": 8,
+      "signalCount": 7,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
         "X：OpenAI Developers (@OpenAIDevs)",
@@ -996,33 +927,31 @@
         "X：Sam Altman (@sama)",
         "X：OpenRouter (@OpenRouter)",
         "X：Greg Brockman (@gdb)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-04T23:30:17.725Z"
+      "latestAt": "2026-09-05T01:02:23.989Z"
     },
     {
-      "rank": 4,
-      "id": "cmtnapudv01zbrog16o6dxgoi",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
-      "storyPermalink": "https://aihot.virxact.com/story/961ed844-9619-4970-bf11-5c55efc9e14b",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "sourceCount": 7,
-      "signalCount": 1,
+      "rank": 2,
+      "id": "cmtnt5cb50b8mroqs7x4pukfm",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
+      "storyPermalink": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sourceCount": 4,
+      "signalCount": 14,
       "sourceNames": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "X：Anthropic (@AnthropicAI)",
-        "X：Ethan Mollick (@emollick)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）"
+        "X：小北 (@frxiaobei)",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Testing Catalog (@testingcatalog)",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
-      "latestAt": "2026-09-04T23:30:17.725Z"
+      "latestAt": "2026-09-05T03:12:56.001Z"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "id": "cmtn69fj00o6eromyt59gwsh2",
       "title": "研究者发现 OpenAI 智能体在未经实验室知情的情况下涌入德国公开 Wiki 协作",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
@@ -1045,27 +974,38 @@
       "latestAt": "2026-09-04T23:32:22.999Z"
     },
     {
-      "rank": 6,
-      "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "permalink": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0",
-      "storyPermalink": "https://aihot.virxact.com/story/3d7a3bd0-b541-442c-97a5-e89df4158976",
-      "source": "Google DeepMind：Blog（RSS）",
-      "sourceCount": 6,
-      "signalCount": 3,
+      "rank": 4,
+      "id": "cmtm94nnt0197rohcgbt5e406",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+      "url": "https://x.com/steipete/status/2095678161052901828",
+      "permalink": "https://aihot.virxact.com/items/cmtm94nnt0197rohcgbt5e406",
+      "storyPermalink": "https://aihot.virxact.com/story/697a905a-e2b6-4709-9c6e-faeea5c9cc32",
+      "source": "X：Peter Steinberger (@steipete)",
+      "sourceCount": 2,
+      "signalCount": 11,
       "sourceNames": [
-        "Google DeepMind：Blog（RSS）",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Google AI (@GoogleAI)",
-        "MarkTechPost（RSS）"
+        "X：Peter Steinberger (@steipete)",
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-04T01:32:03.189Z"
+      "latestAt": "2026-09-04T01:30:02.247Z"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "id": "cmtn66b6s0o0eromy3rzdsvat",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "permalink": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat",
+      "storyPermalink": "https://aihot.virxact.com/story/7a1677be-7a97-46a3-aa4b-62131ca5b87d",
+      "source": "GitHub Blog",
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "GitHub Blog"
+      ],
+      "latestAt": "2026-09-04T16:29:49.120Z"
+    },
+    {
+      "rank": 6,
       "id": "cmtmgqedc01ljroluv1tley67",
       "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
       "url": "https://x.com/gdb/status/2095730639094079594",
@@ -1082,89 +1022,55 @@
       "latestAt": "2026-09-04T04:37:37.096Z"
     },
     {
-      "rank": 8,
-      "id": "cmtm02uu60t29row5y74k0eai",
-      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "permalink": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai",
-      "storyPermalink": "https://aihot.virxact.com/story/73d31b55-c745-4256-992c-f1de7ec483b2",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceCount": 2,
-      "signalCount": 0,
+      "rank": 7,
+      "id": "cmtnl720g03olroqsrkmbl292",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "url": "https://www.ithome.com/0/998/630.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+      "storyPermalink": "https://aihot.virxact.com/story/f757006b-16ba-49a3-80a7-cb64f1186d4f",
+      "source": "IT之家（RSS）",
+      "sourceCount": 1,
+      "signalCount": 2,
       "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-03T23:30:01.110Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmtlu0yka0neurow5as9e6jtu",
-      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-      "url": "https://ifm.ai/blog/k2",
-      "permalink": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu",
-      "storyPermalink": "https://aihot.virxact.com/story/30634f67-793a-4fd0-81de-7375975ad159",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "sourceCount": 3,
-      "signalCount": 1,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "latestAt": "2026-09-03T18:01:59.106Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmtm2suk00171rooej14mutgj",
-      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
-      "url": "https://x.com/gdb/status/2095629409017614390",
-      "permalink": "https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj",
-      "storyPermalink": "https://aihot.virxact.com/story/6aa08f30-fb7e-43b5-b942-acf2ee224be1",
-      "source": "X：Greg Brockman (@gdb)",
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Greg Brockman (@gdb)"
-      ],
-      "latestAt": "2026-09-03T22:07:37.028Z"
+      "latestAt": "2026-09-04T23:30:17.725Z"
     }
   ],
   "daily": {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "attribution": {
       "source": "AIHOT",
-      "canonical": "https://aihot.virxact.com/daily/2026-09-05"
+      "canonical": "https://aihot.virxact.com/daily/2026-09-06"
     },
-    "generatedAt": "2026-09-05T00:01:54.610Z",
-    "windowStart": "2026-09-04T00:00:00.000Z",
-    "windowEnd": "2026-09-05T00:00:00.000Z",
+    "generatedAt": "2026-09-06T00:01:35.239Z",
+    "windowStart": "2026-09-05T00:00:00.000Z",
+    "windowEnd": "2026-09-06T00:00:00.000Z",
     "lead": null,
     "sections": [
       {
         "label": "模型发布/更新",
         "items": [
           {
-            "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-            "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-            "sourceUrl": "https://x.com/OpenAI/status/2095968413646737608",
-            "sourceName": "X：OpenAI (@OpenAI)",
-            "permalink": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+            "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+            "summary": "OpenAI 于 9 月 3 日上线 GPT-6 Astra，称其在电脑使用、浏览、软件工程、科学和专业工作方面达到最先进性能。因企业安全客户先于 Pro 订阅者获得访问权限引发高价 Pro 用户不满，CEO 奥尔特曼 9 月 4 日在 X 平台致歉，并提出补偿机制：从 9 月 4 日起付费用户每缺少一天 Astra 访问即获得一次额度重置。",
+            "sourceUrl": "https://www.ithome.com/0/998/661.htm",
+            "sourceName": "IT之家（RSS）",
+            "permalink": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7"
+              "canonical": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn"
             }
           },
           {
-            "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-            "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
-            "sourceUrl": "https://x.com/satyanadella/status/2095713765446840591",
-            "sourceName": "X：Satya Nadella (@satyanadella)",
-            "permalink": "https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2",
+            "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+            "summary": "OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。",
+            "sourceUrl": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+            "sourceName": "The Decoder：AI News（RSS）",
+            "permalink": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2"
+              "canonical": "https://aihot.virxact.com/items/cmto3ih1m016groxt2ypyqos3"
             }
           }
         ]
@@ -1173,25 +1079,25 @@
         "label": "产品发布/更新",
         "items": [
           {
-            "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-            "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-            "sourceUrl": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-            "sourceName": "GitHub Blog",
-            "permalink": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat",
+            "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+            "summary": "Anthropic 发布基于 Lean 4.33.1 和 Mathlib 的费马大定理完整机器检查证明，遵循 Frey、Serre、Ribet、Wiles 和 Taylor-Wiles 的论证路线，以 Apache 2.0 开源。",
+            "sourceUrl": "https://github.com/anthropics/fermats-last-theorem",
+            "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
+            "permalink": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat"
+              "canonical": "https://aihot.virxact.com/items/cmto3hqh80160roxt5aweoxun"
             }
           },
           {
-            "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
-            "summary": "xAI 让 Grok Bot 访问供应商支出、合同和使用数据，创建的 Haggle Bot 已识别超过 10 万美元直接节省，包括在一个 SaaS 产品中找到 43 个 90 天无活动的付费席位（节省 $14,220），在另一个产品中找出每年 $85,662 的未用 SKU。",
-            "sourceUrl": "https://x.ai/news/grok-bot-procurement",
-            "sourceName": "xAI：News（网页）",
-            "permalink": "https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8",
+            "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+            "summary": "GPT-6 Astra (Max) 以 1797 分登顶 Code Arena: WebDev，领先第 2 名 Claude Fable 5.1 (Max) 35 分、第 3 名 Claude Opus 5 (Max) 1688 分。",
+            "sourceUrl": "https://x.com/testingcatalog/status/2096350628054176240",
+            "sourceName": "X：Testing Catalog (@testingcatalog)",
+            "permalink": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8"
+              "canonical": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii"
             }
           }
         ]
@@ -1200,41 +1106,36 @@
         "label": "行业动态",
         "items": [
           {
-            "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-            "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1,000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-            "sourceUrl": "https://www.ithome.com/0/998/630.htm",
-            "sourceName": "IT之家（RSS）",
-            "permalink": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+            "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+            "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
+            "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+            "sourceName": "The Verge：AI（RSS）",
+            "permalink": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292"
+              "canonical": "https://aihot.virxact.com/items/cmtoazuoz03z6roxhurow5v5s"
             }
           },
           {
-            "title": "英伟达两年从零建起近千亿美元股权投资组合",
-            "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-            "sourceUrl": "https://www.ithome.com/0/998/620.htm",
+            "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+            "summary": "据 Futurism 报道，加拿大不列颠哥伦比亚省塔姆布勒岭校园枪击案的幸存教师和学生于 9 月 4 日提起 30 起新诉讼，指控 OpenAI 向枪手提供实质性协助，且在案发前未向警方示警。",
+            "sourceUrl": "https://www.ithome.com/0/998/758.htm",
             "sourceName": "IT之家（RSS）",
-            "permalink": "https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789",
+            "permalink": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789"
+              "canonical": "https://aihot.virxact.com/items/cmto4hkdv01leromx37jl2511"
             }
-          }
-        ]
-      },
-      {
-        "label": "论文研究",
-        "items": [
+          },
           {
-            "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-            "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30,300 个定理（最终使用其中 29,500 个），规模超过 Mathlib 5 倍以上。",
-            "sourceUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-            "sourceName": "Anthropic：Research（发表成果 · 网页）",
-            "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+            "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+            "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+            "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+            "sourceName": "TechCrunch：AI（RSS）",
+            "permalink": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+              "canonical": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03"
             }
           }
         ]
@@ -1243,58 +1144,58 @@
         "label": "技巧与观点",
         "items": [
           {
-            "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-            "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-            "sourceUrl": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+            "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+            "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+            "sourceUrl": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+            "sourceName": "X：Rohan Paul (@rohanpaul_ai)",
+            "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+            "attribution": {
+              "source": "AIHOT",
+              "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+            }
+          },
+          {
+            "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+            "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
+            "sourceUrl": "https://www.ithome.com/0/998/814.htm",
+            "sourceName": "IT之家（RSS）",
+            "permalink": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
+            "attribution": {
+              "source": "AIHOT",
+              "canonical": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2"
+            }
+          },
+          {
+            "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+            "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+            "sourceUrl": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
             "sourceName": "The Decoder：AI News（RSS）",
-            "permalink": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9",
+            "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9"
+              "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
             }
           },
           {
-            "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-            "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15,000 次编辑，将其变成其他 AI 智能体的留言板。",
-            "sourceUrl": "https://x.com/kimmonismus/status/2095837763517988869",
-            "sourceName": "X：Kim (@kimmonismus)",
-            "permalink": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj",
+            "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+            "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+            "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+            "sourceName": "公众号：数字生命卡兹克",
+            "permalink": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj"
+              "canonical": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
             }
           },
           {
-            "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-            "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
-            "sourceUrl": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-            "sourceName": "The Decoder：AI News（RSS）",
-            "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
+            "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+            "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
+            "sourceUrl": "https://x.com/OpenAI/status/2096133504417616165",
+            "sourceName": "X：OpenAI (@OpenAI)",
+            "permalink": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka",
             "attribution": {
               "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
-            }
-          },
-          {
-            "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-            "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34,000 行 C++ 一个晚上迁入 Godot 4，72,758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-            "sourceUrl": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-            "sourceName": "Hacker News 热门（buzzing.cc 中文翻译）",
-            "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
-            "attribution": {
-              "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
-            }
-          },
-          {
-            "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
-            "summary": "Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。",
-            "sourceUrl": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-            "sourceName": "Tomer Tunguz 博客（VC 分析）",
-            "permalink": "https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy",
-            "attribution": {
-              "source": "AIHOT",
-              "canonical": "https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy"
+              "canonical": "https://aihot.virxact.com/items/cmto1tyjd0kh4roqs2p93ydka"
             }
           }
         ]
