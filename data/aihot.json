@@ -4,7 +4,7 @@
   "provider_url": "https://aihot.virxact.com/",
   "api_version": "",
   "fingerprint": "f1-c45862ba4e147e05",
-  "fetched_at": "2026-09-07T01:08:48Z",
+  "fetched_at": "2026-09-07T04:07:17Z",
   "stale": false,
   "count": 50,
   "items": [
@@ -909,23 +909,7 @@
       }
     }
   ],
-  "hot_topics": [
-    {
-      "rank": 1,
-      "id": "cmtnt5cb50b8mroqs7x4pukfm",
-      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "permalink": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
-      "storyPermalink": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "sourceCount": 1,
-      "signalCount": 9,
-      "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "latestAt": "2026-09-05T03:12:56.001Z"
-    }
-  ],
+  "hot_topics": [],
   "daily": {
     "date": "2026-09-07",
     "attribution": {
